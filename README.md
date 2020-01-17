@@ -1,6 +1,6 @@
 # Energy-Data-Analysis-Team-Hermione
 
-This is a research project focusing on predicting the wind power generation based on wind's speed and directions.
+This is a research project focusing on predicting the wind power generation based on wind's speed, directions and air pressure.
 
 Methods including: 
 1. Gneralized Linear Model
