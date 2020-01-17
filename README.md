@@ -30,14 +30,6 @@ The purpose of this project is to use three variables, wind speed, direction and
 3. Data processing/transformation scripts are being kept [https://github.com/tesssun/Energy-Data-Analysis-Team-Hermione/blob/master/Codes.R]
 
 
-
-
-#### Other Members:
-
-|Name     |
-|Charles Dowlat|
-|Zehao Wang|
-
 ## Contact
 * Our email is encore918@gmail.com
 * Feel free to contact the team with any questions or if you are interested in contributing!
