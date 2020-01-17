@@ -26,11 +26,8 @@ The purpose of this project is to use three variables, wind speed, direction and
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+2. Raw Data is being kept [https://github.com/tesssun/Energy-Data-Analysis-Team-Hermione/tree/master/Data] within this repo.
+3. Data processing/transformation scripts are being kept [https://github.com/tesssun/Energy-Data-Analysis-Team-Hermione/blob/master/Codes.R]
 
 
 
